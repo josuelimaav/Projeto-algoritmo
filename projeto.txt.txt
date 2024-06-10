@@ -1,0 +1,48 @@
+Cliente: kevin
+Filme: jogos mortais - O Final
+Ingressos comprados: 12
+Valor total: 192
+Cliente: kevin
+Filme: Eu sou a lenda
+Ingressos comprados: 12
+Valor total: 240
+Cliente: kevin
+Filme: o exterminador do futuro
+Ingressos comprados: 12
+Valor total: 144
+Cliente: kevin
+Filme: jogos mortais - O Final
+Ingressos comprados: 12
+Valor total: 192
+Cliente: kevin
+Filme: o exterminador do futuro
+Ingressos comprados: 12
+Valor total: 144
+Cliente: kevin
+Filme: aprovados
+Ingressos comprados: 12
+Valor total: 120
+Cliente: kevin
+Filme: milagre na cela 7
+Ingressos comprados: 12
+Valor total: 144
+Cliente: kevin
+Filme: aprovados
+Ingressos comprados: 12
+Valor total: 120
+Cliente: kevin
+Filme: milagre na cela 7
+Ingressos comprados: 1
+Valor total: 12
+Cliente: lala
+Filme: jogos mortais - O Final
+Ingressos comprados: 12
+Valor total: 192
+Cliente: kevin
+Filme: Harry potter
+Ingressos comprados: 29
+Valor total: 580
+Cliente: kevin
+Filme: jogos mortais - O Final
+Ingressos comprados: 12
+Valor total: 192
